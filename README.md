@@ -181,13 +181,6 @@ Deaf, mute, and hearing-impaired individuals face significant communication barr
 | Aryak Bodke |
 | Vishwanath Basavaraj Badiger |
 
----
-
-## 📄 Documents
-
-- 📋 [Market Research Document (MRD)](./MRD-Team_10_SignSense.pdf)
-- 📋 [Product Requirements Document (PRD)](./PRD-Team_10_SignSense.pdf)
-- 📊 [Product Presentation](./Team_SignSense_Presentation-PRD.pdf)
 
 ---
 
