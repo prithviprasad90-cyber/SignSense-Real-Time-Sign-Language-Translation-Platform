@@ -13,7 +13,7 @@
 |---|---|
 | **Top Team Award** | Digital Product Management — College of Engineering, Northeastern University |
 
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/f6b88acf-39a5-4a2b-a8b7-73aae2680ff2" />
+<img width="1000" height="1000" alt="image" src="https://github.com/user-attachments/assets/f6b88acf-39a5-4a2b-a8b7-73aae2680ff2" />
 
 ## 🤟 Overview 
 
