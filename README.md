@@ -184,7 +184,7 @@ Deaf, mute, and hearing-impaired individuals face significant communication barr
 
 | Name |
 |---|
-| Prithvi Prasad | (Team Lead)
+| Prithvi Prasad (Team Lead) |
 | Chaitanya Bhave |
 | Aryak Bodke |
 | Vishwanath Basavaraj Badiger |
