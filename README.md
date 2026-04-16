@@ -7,7 +7,15 @@
 
 ---
 
-## 🤟 Overview
+## 🏆 Award & Recognition
+
+| 🏆 Achievement | Details |
+|---|---|
+| **Top Team Award** | Digital Product Management — College of Engineering, Northeastern University |
+
+<img width="1792" height="2048" alt="image" src="https://github.com/user-attachments/assets/f6b88acf-39a5-4a2b-a8b7-73aae2680ff2" />
+
+## 🤟 Overview 
 
 **SignSense** is an innovative communication platform designed to bridge the gap between the deaf/mute community and the hearing world. It provides **real-time, two-way translation** between American Sign Language (ASL) and narrative/spoken language — empowering inclusivity and accessibility across personal, professional, and institutional settings.
 
