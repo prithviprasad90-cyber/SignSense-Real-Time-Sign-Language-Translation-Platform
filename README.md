@@ -189,9 +189,3 @@ Deaf, mute, and hearing-impaired individuals face significant communication barr
 | Aryak Bodke |
 | Vishwanath Basavaraj Badiger |
 
-
----
-
-## 📄 License
-
-This project was created for academic purposes as part of a Product Management course (Spring 2024).
