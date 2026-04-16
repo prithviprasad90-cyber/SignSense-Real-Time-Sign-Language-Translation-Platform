@@ -4,6 +4,9 @@
 ![Type](https://img.shields.io/badge/Type-Product%20Design%20%7C%20MRD%20%7C%20PRD-blue)
 ![Domain](https://img.shields.io/badge/Domain-Accessibility%20%7C%20Inclusive%20Communication-orange)
 
+
+<img width="2312" height="1298" alt="image" src="https://github.com/user-attachments/assets/89f157f2-e8ba-498c-9edf-bc1d1f657547" />
+
 ---
 
 ## 🏆 Award & Recognition
