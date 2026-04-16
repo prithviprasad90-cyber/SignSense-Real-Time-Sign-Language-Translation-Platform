@@ -3,7 +3,6 @@
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 ![Type](https://img.shields.io/badge/Type-Product%20Design%20%7C%20MRD%20%7C%20PRD-blue)
 ![Domain](https://img.shields.io/badge/Domain-Accessibility%20%7C%20Inclusive%20Communication-orange)
-![Team](https://img.shields.io/badge/Team-10-lightgrey)
 
 ---
 
