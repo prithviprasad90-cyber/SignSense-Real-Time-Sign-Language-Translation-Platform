@@ -19,7 +19,7 @@
 
 **SignSense** is an innovative communication platform designed to bridge the gap between the deaf/mute community and the hearing world. It provides **real-time, two-way translation** between American Sign Language (ASL) and narrative/spoken language — empowering inclusivity and accessibility across personal, professional, and institutional settings.
 
-> *"Empowering inclusive communication"*
+*"Empowering inclusive communication"*
 
 More than **75% of deaf or hard-of-hearing individuals in the USA** face significant communication barriers in their daily interactions. SignSense addresses this critical unmet need by offering a user-friendly mobile and web application that enables seamless, real-time conversations between deaf and hearing individuals.
 
