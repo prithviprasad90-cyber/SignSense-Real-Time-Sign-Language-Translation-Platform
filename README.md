@@ -180,12 +180,12 @@ Deaf, mute, and hearing-impaired individuals face significant communication barr
 
 ## 👤 Team
 
-**Team 10** — Product Management Course, Spring 2024
+**Team** — Product Management Course, Spring 2024
 
 | Name |
 |---|
+| Prithvi Prasad | (Team Lead)
 | Chaitanya Bhave |
-| Prithvi Prasad |
 | Aryak Bodke |
 | Vishwanath Basavaraj Badiger |
 
